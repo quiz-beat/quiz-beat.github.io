@@ -1,0 +1,27 @@
+{
+  "name": "QuizBeat",
+  "short_name": "QuizBeat",
+  "description": "아케이드 감성 글로벌 웹 퀴즈게임 — 콤보·보스·5개 언어",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0d0d1a",
+  "theme_color": "#0d0d1a",
+  "icons": [
+    {
+      "src": "art/branding/icon-192.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "art/branding/icon-512.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    },
+    {
+      "src": "art/branding/icon-maskable.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "maskable"
+    }
+  ]
+}

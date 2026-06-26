@@ -1,0 +1,173 @@
+{
+  "version": "1",
+  "model": "gpt-image-2",
+  "format": "webp",
+  "sizes": {
+    "square": "1024x1024",
+    "wide": "1536x1024"
+  },
+  "assets": {
+    "monsters": {
+      "kr": {
+        "path": "monsters/kr.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "b18c7abe1dacaac4"
+      },
+      "us": {
+        "path": "monsters/us.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "aa198385c7067835"
+      },
+      "jp": {
+        "path": "monsters/jp.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "c342902891f21f4d"
+      },
+      "cn": {
+        "path": "monsters/cn.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "c3fb394d6f038610"
+      },
+      "general": {
+        "path": "monsters/general.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "9745b02eb9d7a88a"
+      },
+      "entertainment": {
+        "path": "monsters/entertainment.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "1629c8a57afb0c5b"
+      },
+      "it": {
+        "path": "monsters/it.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "26f34c7294439ead"
+      },
+      "stock": {
+        "path": "monsters/stock.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "ad0293de58a567ec"
+      },
+      "nature": {
+        "path": "monsters/nature.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "783a51a469de9192"
+      },
+      "game": {
+        "path": "monsters/game.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "24222fe84759cb4b"
+      },
+      "boss": {
+        "path": "monsters/boss.webp",
+        "size": "1024x1024",
+        "gen_size": "1024x1024",
+        "prompt_hash": "229091fc40cefe18"
+      }
+    },
+    "backdrops": {
+      "kr": {
+        "path": "backdrops/kr.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "37a7dd250203838a"
+      },
+      "us": {
+        "path": "backdrops/us.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "a332b070de4ce878"
+      },
+      "jp": {
+        "path": "backdrops/jp.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "2620fb94fa1fa07c"
+      },
+      "cn": {
+        "path": "backdrops/cn.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "01230bc5aa9113af"
+      },
+      "it": {
+        "path": "backdrops/it.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "0703ea08c27b428c"
+      },
+      "stock": {
+        "path": "backdrops/stock.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "23a2f9ffb22332ce"
+      },
+      "nature": {
+        "path": "backdrops/nature.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "14e93b5169265fee"
+      },
+      "game": {
+        "path": "backdrops/game.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "b7c2bfeea6c85894"
+      },
+      "boss": {
+        "path": "backdrops/boss.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "9fb3bd3f4fb6436a"
+      }
+    },
+    "branding": {
+      "icon-192": {
+        "path": "branding/icon-192.webp",
+        "size": "192x192",
+        "gen_size": "1024x1024",
+        "prompt_hash": "eaf82b615209397d"
+      },
+      "icon-512": {
+        "path": "branding/icon-512.webp",
+        "size": "512x512",
+        "gen_size": "1024x1024",
+        "prompt_hash": "96573c8858338b61"
+      },
+      "icon-maskable": {
+        "path": "branding/icon-maskable.webp",
+        "size": "512x512",
+        "gen_size": "1024x1024",
+        "prompt_hash": "4ef9212f3e255586"
+      },
+      "apple-touch": {
+        "path": "branding/apple-touch.webp",
+        "size": "180x180",
+        "gen_size": "1024x1024",
+        "prompt_hash": "80aac595c7eb4db4"
+      },
+      "og": {
+        "path": "branding/og.webp",
+        "size": "1200x630",
+        "gen_size": "1536x1024",
+        "prompt_hash": "a96f6139da064e64"
+      },
+      "wordmark": {
+        "path": "branding/wordmark.webp",
+        "size": "1536x1024",
+        "gen_size": "1536x1024",
+        "prompt_hash": "b061977975944a1e"
+      }
+    }
+  }
+}

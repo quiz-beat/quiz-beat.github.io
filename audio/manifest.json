@@ -1,0 +1,24 @@
+{
+  "version": "1",
+  "sfxModel": "eleven_text_to_sound_v2",
+  "bgmModel": "music_v1",
+  "sfx": {
+    "pick": "sfx/pick.mp3",
+    "correct": "sfx/correct.mp3",
+    "correct_big": "sfx/correct_big.mp3",
+    "wrong": "sfx/wrong.mp3",
+    "drop": "sfx/drop.mp3",
+    "tick": "sfx/tick.mp3",
+    "boss_intro": "sfx/boss_intro.mp3",
+    "stage_go": "sfx/stage_go.mp3",
+    "fanfare_s": "sfx/fanfare_s.mp3",
+    "fanfare_a": "sfx/fanfare_a.mp3",
+    "fanfare_b": "sfx/fanfare_b.mp3",
+    "fanfare_c": "sfx/fanfare_c.mp3",
+    "fanfare_d": "sfx/fanfare_d.mp3"
+  },
+  "bgm": {
+    "field": "bgm/field.mp3",
+    "boss": "bgm/boss.mp3"
+  }
+}
